@@ -1,0 +1,5 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+f:\microsoft visual studio\of_v0.11.2_vs2017_release\apps\myapps\recreatinghw6\src\ofapp.cpp(16): warning C4018: '<': signed/unsigned mismatch
+f:\microsoft visual studio\of_v0.11.2_vs2017_release\apps\myapps\recreatinghw6\src\ofapp.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  RecreatingHW6.vcxproj -> F:\Microsoft Visual Studio\of_v0.11.2_vs2017_release\apps\myApps\RecreatingHW6\bin\RecreatingHW6_debug.exe
